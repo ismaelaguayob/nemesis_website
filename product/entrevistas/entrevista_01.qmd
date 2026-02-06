@@ -12,9 +12,6 @@ about:
     - icon: youtube
       text: Ver video de la entrevista Youtube
       href: https://youtu.be/B38sU0vllIM
-    - icon: instagram
-      text: Ver Video de la entrevista Instagram
-      href: 404.qmd
 ---
 
 Entrevistador: Mauricio Encina (Miembro del comité editorial) (En adelante **ME**)

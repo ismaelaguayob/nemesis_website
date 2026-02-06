@@ -67,14 +67,14 @@ Estudiante de cuarto año de sociología Uchile. Sus áreas de interés son la t
 
 <div class="member-name">Martina Lagos</div>
 <div class="member-bio">
-Estudiante de cuarto año de sociología UChile.
+Estudiante de cuarto año de sociología UChile. Sus intereses son la teoría queer, la teoría decolonial y la relación entre el capitalismo, la inteligencia artificial y la geopolítica.
 </div>
 :::
 
 ::: {.team-member}
 ![](images/angie.jpeg)
 
-<div class="member-name">Angela Medina</div>
+<div class="member-name">Angela Valeria</div>
 <div class="member-bio">
 Licenciada en sociología UChile. Sus áreas de interés son la sociología de la salud, la metodología y ética de la investigación social.
 </div>

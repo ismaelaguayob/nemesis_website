@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/product/entrevistas/entrevista_02.html",
       "/product/columnas/column_15.html",
       "/product/columnas/column_14.html",
       "/product/comentarios/com_bib_12.html",
@@ -72,6 +73,7 @@
   {
     "listing": "/product/entrevistas.html",
     "items": [
+      "/product/entrevistas/entrevista_02.html",
       "/product/entrevistas/entrevista_01.html"
     ]
   }
