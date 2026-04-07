@@ -1,0 +1,68 @@
+---
+title: "La virgen infernal"
+subtitle: "El ejemplo de Cuba frente a la ética del tener"
+categories: "Columnas de opinión"
+author: 
+  - name: Benjamín Bustos
+    affiliation: Universidad de Chile
+date: 04-08-26
+image: ../../images/column_17.jpeg
+lang: es
+about:
+  template: marquee
+---
+::: {.cita-derecha}
+
+*Anoche tarde ardió mi frente / ardió de fiebre universal / era la Virgen de Occidente* 
+*/ era la Virgen infernal / Vino con todos sus ungüentos / vino fingiendo ser la luz /* 
+*vino con átomos sangrientos / vino demócrata y con cruz.*
+
+Silvio Rodríguez, *Virgen de Occidente*
+
+:::
+
+La Habana volvió a quedarse sin luz por séptima vez en menos de año y medio. El sistema eléctrico colapsó por completo. Van meses sin que la Isla reciba un buque petrolero. Mientras tanto, Trump declaró que espera “tener el honor de tomar Cuba”, que podrá “hacer lo que quiera con ella”. Aquí se condensa la permanente amenaza del imperio y la sádica obsesión por intentar doblegar a quien osó desafiar el curso de la historia.
+
+Frente a la retórica unidimensional de Occidente sobre la situación en Cuba, se vuelve imperativo rescatar y reivindicar aquellas concepciones de la dignidad y la vida humana erigidas en Cuba. El aparato mediático impone con estridencia la narrativa de una suerte de necesidad del fracaso: se nos instala que el modelo cubano caerá por su propio peso, que los ideales están agotados y que la historia finalmente ha dictado sentencia. Sin embargo, para quienes pensamos o hemos pensado en una sociedad distinta —deseo de transformación que se siente cada vez más lejano—, se vuelve un deber realizar, al menos, una reflexión concreta, humana y fraterna sobre lo que en la Isla se construyó y lo que se quiso construir.
+
+No se trata de idealizar lo que ha sido e ignorar los errores que, efectivamente, han existido en estas más de seis décadas. Se trata de reconocer que el modelo cubano, desde el socialismo, fue algo más que un pulso frío entre Estados, como muchas veces se quiere reducir. Es, y ha sido, en su esencia más pura, el intento de una transformación radical de la concepción humana en torno al dinero. Mientras nuestras sociedades capitalistas —pero con celebradas democracias— transforman los valores humanos en mercancía a pasos cada vez más agigantados, Cuba se erigió como una de las más serias trincheras de una concepción del ser humano radicalmente distinta.
+
+Hace más de sesenta años, en medio de la novelesca gesta revolucionaria, el Che planteó que para construir el comunismo no bastaba con transformar la base material; era imperativo crear, simultáneamente, al *Hombre Nuevo*. Como indicaba en su célebre carta *El socialismo* y el *hombre en Cuba* (1965/2011): “El ejemplar humano, enajenado, tiene un invisible cordón umbilical que le liga a la sociedad en su conjunto: la ley del valor. Ella actúa en todos los aspectos de su vida, va modelando su camino y su destino” (Guevara, 1965/2011, p. 5).
+
+En nuestras democracias liberales, el éxito se nos vende como responsabilidad propia, ocultando la lógica macabra detrás del mérito. El Che comprendió que el socialismo cubano debía romper ese esquema ontológico. El individuo socialista no debía someterse a esta lógica de competencia rapaz, debía aspirar a ser alguien pleno, libre y mucho más completo: tender a una subjetividad no alienada. Este es el peligro de la crisis en Cuba: se está aplastando la idea de pensar al ser humano como algo más que un producto.
+
+Cuando el Che decía que el revolucionario verdadero está guiado por “grandes sentimientos de amor”, apuntaba a algo más profundo y concreto: somos más libres cuando somos más plenos, y somos más plenos cuando nuestra existencia deja de tener un precio de mercado para adquirir un valor de uso social. Por ello es que tiene tanto valor lo que Cuba ha defendido: un tipo de ser humano concreto que, más que nunca, nos hace mirar de frente el vacío de nuestras propias sociedades, donde nos dejamos consumir por la indiferencia y la asfixiante lógica del tener.
+
+Para Fidel, los problemas basales de las sociedades capitalistas resultan del relegamiento de la ética, o más bien del predominio de la “ética del tener y no la del ser” (León, 2021). Es esta distorsión la expresión de lo que Marx (1867/2010) denominó fetichismo de la mercancía: un fenómeno donde los objetos cobran vida y las personas se vuelven cosas. La profunda crisis de la moral provocada por este aspecto ha desencadenado distintas crisis simultáneas a distintos niveles.
+
+Más allá de las tensiones geopolíticas, la frontera que me parece más importante volver a poner en discusión es la ontológica. Mientras el mundo se rendía a la hegemonía del capital, la Isla intentó sostener la subversión contra los efectos de la forma-mercancía.
+
+En nuestras sociedades, la lógica productiva ha dejado de ser un mero sistema de intercambio para convertirse en una ontología totalizante. Hemos internalizado el ritmo de la máquina. Esta es nuestra tragedia, y el origen del vacío que nos habita. Porque una existencia diseñada para la eficiencia no deja espacio para la alteridad; es decir, el reconocimiento de un “otro” sin subordinación al ritmo de producción. Aquí la disputa es, en última instancia, una disputa por el tiempo. La lógica del capital secuestra el tiempo de vida transformando nuestro ser vital en cronología de la mercancía (Marx, 1867/2010).
+
+¿Por qué nos resulta tan fácil ignorar que alguien llore a nuestro lado caminando por la calle, en el metro, en la oficina o en la universidad? No es solo falta de empatía; es que la lógica productiva exige la supresión del “yo” sintiente en favor del “yo” productivo. El llanto es irrelevante para nuestro ritmo de vida acelerado, e incluso molesto.
+
+El peligro que Cuba ha representado —y que el imperio intenta apisonar con tanta barbarie— es el de reconocer otro tipo de ser humano posible. La pregunta por Cuba es una pregunta por la civilización en su totalidad. Los mismos centros de poder que celebran la supuesta inevitabilidad del derrumbe cubano son los mismos que ahogan la posibilidad de otra sociedad, fuera de los cánones de la modernidad liberal. Tristemente, se impone la constatación de que una alternativa de este tipo nunca nos será permitida con facilidad.
+
+Más allá de las deudas de la Revolución, la urgencia hoy es otra: es la defensa del derecho a una existencia sustraída a la lógica de la mercancía, y la exigencia de una reflexión a una escala, necesariamente, más humana y justa con su historia. Resulta iluminadora, en este sentido, la entrevista de 1996 donde Silvio, ante el asedio de Jaime Bayly en pleno Periodo Especial, respondió con una lucidez sublime:
+
+:::{style="margin-left: 0.5in"}
+Yo no puedo desligarme de la esencia, y de las razones de la Revolución mientras vea que la Revolución y el país no nos lo dejan ser como nosotros queremos que sea, sino que nos lo tratan de hacer a imagen y semejanza de quien tiene el poder económico, el poder político y el poder militar en el mundo. Entonces, cuando es David contra Goliat: aun cuando se aplastara la Revolución, aun si la hundieran y acabaran con todo—justamente por haber hecho ese trabajo de no dejarnos ni respirar ni un instante—, siempre iba a quedar aquel bichito dentro de: ‘¿y si nos hubieran dejado que hubiera pasado?‘ (…) No nos han dado derecho, ni siquiera, a cometer nuestros propios errores. (Rodríguez, 1996)
+:::
+
+El miedo del capital siempre fue ante el potencial éxito de Cuba. Nos pudo haber revelado que la libertad de nuestra Virgen de Occidente, demócrata y con cruz, es el consuelo de andar en un tiempo que no nos pertenece. 
+ 
+**Referencias**
+
+::: {.referencias}
+
+Guevara, E. (2011). El socialismo y el hombre en Cuba. Ocean Press. (Obra original publicada en 1965).
+
+León, I. (2021). La Defensa de la Humanidad en clave Fidel. En Cuba: La esperanza posible (pp. 35-36). Editorial Casa de las Américas; Verso Libros.
+
+Marx, K. (2010). El capital: Crítica de la economía política (Vol. 1). Siglo XXI. (Obra original publicada en 1867). 
+
+Rodríguez, S. (1996). Entrevista con Jaime Bayly. [Video]. YouTube. [https://youtu.be/] 
+
+Rodríguez, S. (1977). Virgen de Occidente [Canción]. 
+
+:::

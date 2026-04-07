@@ -3,7 +3,7 @@ title: "Ellos son los culpables"
 subtitle: "Entrevista a Pablo Sarricolea, Director del Depto. De Geografía UCH, sobre los incendios en la Región del Bío Bío"
 categories: "Entrevista"
 author: Equipo de Extensión y Comunicaciones
-date: last-modified
+date: 02-06-2026
 image: ../../images/entrevista_02_2.webp
 lang: es
 about: 

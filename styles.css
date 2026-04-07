@@ -9,6 +9,14 @@ p {
     hyphens: auto;
 }
 
+.cita-derecha p {
+    text-align: right !important;
+}
+
+.referencias {
+    margin-left: 0.5in;  text-indent: -0.5in;
+}
+
 /* Custom Callout Color to match Némesis Purple */
 .callout-important {
     border-left-color: #330033 !important;

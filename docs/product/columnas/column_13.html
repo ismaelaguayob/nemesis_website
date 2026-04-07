@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.21">
+<meta name="generator" content="quarto-1.9.29">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,6 +10,9 @@
 
 <title>“Si esto es un hombre” – Revista Némesis</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -33,14 +36,13 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../images/circle_logo_black.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-9d81ecda2a6976a8309627a9671386fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bab1d36e5f666a833a982617ff75b6a5.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-75d1f0cee86d8754c992542031c37da2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d61c730bba774e1b0c8866f2a8f16cf2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -225,8 +227,8 @@ background: #330033;
   <div class="about-contents">
      <main class="content quarto-banner-title-block" id="quarto-document-content">
 <div class="blockquote" style="text-align: right">
-<p><em>“allí recibimos los primeros golpes y la cosa fue tan inesperada e insensata que no sentimos ningún dolor, ni en el cuerpo ni en el alma, sólo un estupor profundo…<em><br>
-</em>¿Cómo es posible golpear a una persona sin piedad”?</em></p>
+<p><em>“allí recibimos los primeros golpes y la cosa fue tan inesperada e insensata que no sentimos ningún dolor, ni en el cuerpo ni en el alma, sólo un estupor profundo…</em><br>
+<em>¿Cómo es posible golpear a una persona sin piedad”?</em></p>
 <p>— <em>Primo Levi, Si esto es un hombre, 1988</em></p>
 <p><em>En agradecimiento a los profesores Manuel Antonio Garretón, Rodrigo Baño y Darío Montero, quienes colaboraron aportando sus apreciaciones sobre derechos humanos, sociedad civil y democracia cultural para este escrito y futuras publicaciones.</em></p>
 </div>
@@ -292,13 +294,14 @@ Universidad de Chile</p>
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
