@@ -5,10 +5,9 @@ categories: "Columnas de opinión"
 author: 
   - name: Benjamín Bustos
     affiliation: Universidad de Chile
-date: 04-08-26
-image: ../../images/column_17.jpeg
+date: 04-15-26
+image: ../../images/columnas/column_17.jpeg
 lang: es
-draft: true
 about:
   template: marquee
 ---

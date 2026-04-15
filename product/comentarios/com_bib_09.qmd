@@ -5,7 +5,7 @@ description: "Política de identidades y cultura cívica en tiempos posmodernos"
 categories: "Comentarios bibliográficos"
 author: Joaquín Capetillo
 date: 09-05-2023
-image: ../../images/com_bib_09.jpeg
+image: ../../images/comentarios/com_bib_09.jpeg
 lang: es
 about: 
   template: marquee

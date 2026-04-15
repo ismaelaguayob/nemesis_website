@@ -5,7 +5,7 @@ description: "Un libro sobre las transformaciones culturales de los sectores pop
 categories: "Comentarios bibliográficos"
 author: Mauricio Encina
 date: 05-01-2023
-image: ../../images/chavs.jpg
+image: ../../images/comentarios/chavs.jpg
 lang: es
 about: 
   template: marquee

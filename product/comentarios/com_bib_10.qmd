@@ -5,7 +5,7 @@ description: "Cómo construir una clase ecológica consciente y orgullosa de sí
 categories: "Comentarios bibliográficos"
 author: Cristóbal Albornoz
 date: 09-26-2023
-image: ../../images/com_bib_10.jpg
+image: ../../images/comentarios/com_bib_10.jpg
 lang: es
 about: 
   template: marquee

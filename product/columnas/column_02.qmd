@@ -4,7 +4,7 @@ subtitle: "Arte, simplicidad y política"
 categories: "Columnas de opinión"
 author: Mauricio Encina
 date: 09-06-2024
-image: ../../images/column_02.jpg
+image: ../../images/columnas/column_02.jpg
 lang: es
 about: 
   template: marquee

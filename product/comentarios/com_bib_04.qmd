@@ -5,7 +5,7 @@ description: "Un análisis de las alternativas de gobierno socialista en la cult
 categories: "Comentarios bibliográficos"
 author: Carlos Budnevich
 date: 05-31-2023
-image: ../../images/kibbutz.jpg
+image: ../../images/comentarios/kibbutz.jpg
 lang: es
 about: 
   template: marquee

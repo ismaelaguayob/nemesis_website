@@ -4,7 +4,7 @@ subtitle: "Un aporte al debate actual"
 categories: "Columnas de opinión"
 author: Ignacio López
 date: 10-22-2020
-image: ../../images/column_01.jpg
+image: ../../images/columnas/column_01.jpg
 lang: es
 about: 
   template: marquee

@@ -5,7 +5,7 @@ description: "Una historia de la resistencia chilena en el siglo XX"
 categories: "Comentarios bibliográficos"
 author: Mauricio Encina
 date: 08-04-2023
-image: ../../images/com_bib_07.jpg
+image: ../../images/comentarios/com_bib_07.jpg
 lang: es
 about: 
   template: marquee

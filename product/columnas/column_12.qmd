@@ -3,7 +3,7 @@ title: "El mito del esfuerzo: cómo en Chile justificamos la desigualdad"
 categories: "Columnas de opinión"
 author: Nain López Valdés
 date: 07-01-2025
-image: ../../images/columna_12.png
+image: ../../images/columnas/columna_12.png
 lang: es
 about: 
   template: marquee

@@ -3,7 +3,7 @@ title: "Walter Benjamin y la cotidianidad de la modernidad"
 categories: "Columnas de opinión"
 author: Cristóbal Albornoz Vargas
 date: 10-15-2024
-image: ../../images/column_03.jpg
+image: ../../images/columnas/column_03.jpg
 lang: es
 about: 
   template: marquee

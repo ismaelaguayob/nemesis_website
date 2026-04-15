@@ -12,7 +12,7 @@ page-layout: full
 ::: {.team-grid}
 
 ::: {.team-member}
-![](images/isma.jpg)
+![](images/miembros/isma.jpg)
 
 <div class="member-name">Ismael Aguayo</div>
 <div class="member-bio">
@@ -21,7 +21,7 @@ Licenciado en sociología UChile. Sus líneas de interes son la Inteligencia Art
 :::
 
 ::: {.team-member}
-![](images/chuma.jpeg)
+![](images/miembros/chuma.jpeg)
 
 <div class="member-name">Domingo Monasterio</div>
 <div class="member-bio">
@@ -36,7 +36,7 @@ Licenciado en sociología UChile. Sus intereses se centran en la Teoría de Sist
 ::: {.team-grid}
 
 ::: {.team-member}
-![](images/bustos.jpeg)
+![](images/miembros/bustos.jpeg)
 
 <div class="member-name">Benjamín Bustos</div>
 <div class="member-bio">
@@ -45,7 +45,7 @@ Estudiante de cuarto año de sociología UChile. Sus intereses se centran en la 
 :::
 
 ::: {.team-member}
-![](images/cape.jpg)
+![](images/miembros/cape.jpg)
 
 <div class="member-name">Joaquín Capetillo</div>
 <div class="member-bio">
@@ -54,7 +54,7 @@ Licenciado en sociología UChile. Sus líneas de interés son la Teoría Crític
 :::
 
 ::: {.team-member}
-![](images/jenny.jpeg)
+![](images/miembros/jenny.jpeg)
 
 <div class="member-name">Jennifer Faundez</div>
 <div class="member-bio">
@@ -63,7 +63,7 @@ Estudiante de cuarto año de sociología Uchile. Sus áreas de interés son la t
 :::
 
 ::: {.team-member}
-![](images/marti.jpeg)
+![](images/miembros/marti.jpeg)
 
 <div class="member-name">Martina Lagos</div>
 <div class="member-bio">
@@ -72,7 +72,7 @@ Estudiante de cuarto año de sociología UChile. Sus intereses son la teoría qu
 :::
 
 ::: {.team-member}
-![](images/angie.jpeg)
+![](images/miembros/angie.jpeg)
 
 <div class="member-name">Angela Valeria</div>
 <div class="member-bio">
@@ -81,7 +81,7 @@ Licenciada en sociología UChile. Sus áreas de interés son la sociología de l
 :::
 
 ::: {.team-member}
-![](images/vicente.jpeg)
+![](images/miembros/vicente.jpeg)
 
 <div class="member-name">Vicente Serrano</div>
 <div class="member-bio">
@@ -90,7 +90,7 @@ Licenciado en Lingüística y Literatura Hispánica, diplomado en Periodismo Cul
 :::
 
 ::: {.team-member}
-![](images/mari.jpeg)
+![](images/miembros/mari.jpeg)
 
 <div class="member-name">Mariana Sharp</div>
 <div class="member-bio">
@@ -105,7 +105,7 @@ Licenciada en sociología UChile. Interesada en la sociología ambiental, sociol
 ::: {.team-grid}
 
 ::: {.team-member}
-![](images/javi.jpg)
+![](images/miembros/javi.jpg)
 
 <div class="member-name">Javiera Ruiz Alvarado</div>
 <div class="member-bio">
@@ -115,7 +115,7 @@ Estudiante de quinto año de sociología UChile y miembro del Equipo Directivo d
 :::
 
 ::: {.team-member}
-![](images/pipe.jpg)
+![](images/miembros/pipe.jpg)
 
 <div class="member-name">Felipe Carvajal</div>
 <div class="member-bio">
@@ -124,7 +124,7 @@ Licenciado en sociología y estudiante del magister en Trabajo Social UChile. In
 :::
 
 ::: {.team-member}
-![](images/matias.jpeg)
+![](images/miembros/matias.jpeg)
 
 <div class="member-name">Matías Rojas</div>
 <div class="member-bio">
@@ -133,7 +133,7 @@ Estudiante de cuarto año de sociología UChile. Interesado en la sociología po
 :::
 
 ::: {.team-member}
-![](images/leonor.jpeg)
+![](images/miembros/leonor.jpeg)
 
 <div class="member-name">Leonor Sáez</div>
 <div class="member-bio">

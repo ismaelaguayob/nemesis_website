@@ -3,7 +3,7 @@ title: "«Los hijos de Marx y Coca-Cola»: el modernismo de la contracultura"
 categories: "Columnas de opinión"
 author: Joaquín Capetillo
 date: 12-16-2024
-image: ../../images/column_07.jpg
+image: ../../images/columnas/column_07.jpg
 lang: es
 about: 
   template: marquee

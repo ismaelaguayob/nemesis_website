@@ -6,7 +6,7 @@ author:
   - name: Camila Alarcón
     affiliation: Universidad de Chile
 date: 04-07-26
-image: ../../images/column_16.jpeg
+image: ../../images/columnas/column_16.jpeg
 lang: es
 about: 
   template: marquee
@@ -16,13 +16,13 @@ La planificación urbana en Chile ha operado históricamente bajo una lógica de
 
 ### 1. La base física: ¿Qué es una falla inversa activa?
 
-<img src="../../images/column_16_img1.jpeg"
+<img src="../../images/columnas/column_16_img1.jpeg"
      alt="imagen"
      style="float: right; width: 400px; margin: 20px 20px 12px 12px;" />
 
 Para entender el riesgo sismológico en la cuenca de Santiago, es imperativo desmitificar el concepto de "falla". Una falla es una fractura en la corteza terrestre donde se concentra el movimiento de las placas. Sin embargo, la Falla de San Ramón posee una característica particular: es una **falla inversa**. Según explican Pérez et al. (2014), esto significa que, debido a los esfuerzos de compresión de la placa de Nazca contra la Continental, un bloque de roca se desplaza verticalmente sobre otro.
 
-<img src="../../images/column_16_img2.jpeg"
+<img src="../../images/columnas/column_16_img2.jpeg"
      alt="imagen"
      style="float: left; width: 400px; margin: 20px 20px 12px 12px;" />
 
@@ -30,7 +30,7 @@ Este mecanismo es el que ha "levantado" la precordillera que observamos hoy. Al 
 
 ### 2. Geografía social: La segregación del riesgo y la distribución de bienes
 
-<img src="../../images/column_16_img3.jpeg"
+<img src="../../images/columnas/column_16_img3.jpeg"
      alt="imagen"
      style="float: left; width: 400px; margin: 20px 20px 12px 12px;" />
 

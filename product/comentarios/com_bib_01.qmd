@@ -5,7 +5,7 @@ description: "El profesor nos entrega un panorama general del traspaso de la eco
 categories: "Comentarios bibliográficos"
 author: Nicolás Tobar
 date: 04-03-2023
-image: ../../images/era_de_la_farsa.jpg
+image: ../../images/comentarios/era_de_la_farsa.jpg
 lang: es
 about: 
   template: marquee

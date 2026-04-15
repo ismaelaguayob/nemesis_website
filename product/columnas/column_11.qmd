@@ -3,7 +3,7 @@ title: "Las niñeces existen ahora"
 categories: "Columnas de opinión"
 author: Yhislaine Pavez Manzzo
 date: 06-09-2025
-image: ../../images/columna_11.png
+image: ../../images/columnas/columna_11.png
 lang: es
 about: 
   template: marquee

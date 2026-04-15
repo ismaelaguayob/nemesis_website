@@ -4,7 +4,7 @@ subtitle: "Entrevista a Pablo Sarricolea, Director del Depto. De Geografía UCH,
 categories: "Entrevista"
 author: Equipo de Extensión y Comunicaciones
 date: 02-06-2026
-image: ../../images/entrevista_02_2.webp
+image: ../../images/entrevistas/entrevista_02_2.webp
 lang: es
 about: 
   template: marquee
@@ -14,7 +14,7 @@ about:
 Fuente: Noticias Uchile. https://uchile.cl/noticias/236805/estudio-de-2020-uchile-alerto-sobre-riesgo-de-incendios-en-penco-y-lirquen
 :::
 
-![Fuente: FIRMS, NASA. https://firms.modaps.eosdis.nasa.gov/](../../images/entrevista_02_1.png)
+![Fuente: FIRMS, NASA. https://firms.modaps.eosdis.nasa.gov/](../../images/entrevistas/entrevista_02_1.png)
 
 **¿Me puedes contar brevemente el estudio? (2020, sobre los riesgos de incendio)**
 

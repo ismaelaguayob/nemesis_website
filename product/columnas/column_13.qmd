@@ -4,7 +4,7 @@ subtitle: "El drama infinito del Holocausto y sus paralelos con el genocidio pal
 categories: "Columnas de opinión"
 author: Mauricio Encina
 date: 07-04-2025
-image: ../../images/column_13.jpg
+image: ../../images/columnas/column_13.jpg
 lang: es
 about: 
   template: marquee

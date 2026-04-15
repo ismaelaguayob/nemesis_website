@@ -5,7 +5,7 @@ description: "En búsqueda de nuevos puntos de vista para la emancipación conte
 categories: "Comentarios bibliográficos"
 author: Cristóbal Albornoz Vargas
 date: 07-29-2025
-image: ../../images/com_bib_12.jpg
+image: ../../images/comentarios/com_bib_12.jpg
 lang: es
 about: 
   template: marquee

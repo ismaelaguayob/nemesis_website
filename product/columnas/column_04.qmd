@@ -3,7 +3,7 @@ title: "Algunos apuntes sobre el trap chileno"
 categories: "Columnas de opinión"
 author: Cristóbal Unda Labbé
 date: 11-14-2024
-image: ../../images/column_04.png
+image: ../../images/columnas/column_04.png
 lang: es
 about: 
   template: marquee

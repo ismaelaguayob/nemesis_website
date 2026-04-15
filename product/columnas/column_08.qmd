@@ -3,7 +3,7 @@ title: "¿Hablar de clase? ¿Quiénes somos la clase obrera?"
 categories: "Columnas de opinión"
 author: Derek Alejandro Jamet
 date: 05-14-2025
-image: ../../images/columna_08.png
+image: ../../images/columnas/columna_08.png
 lang: es
 about: 
   template: marquee

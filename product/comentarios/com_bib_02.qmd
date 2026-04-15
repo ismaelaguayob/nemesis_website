@@ -5,7 +5,7 @@ description: "Interesantes reflexiones sobre el significado de la desobediencia"
 categories: "Comentarios bibliográficos"
 author: Cristóbal Albornoz
 date: 04-19-2023
-image: ../../images/desobedecer.webp
+image: ../../images/comentarios/desobedecer.webp
 lang: es
 about: 
   template: marquee

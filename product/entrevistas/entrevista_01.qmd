@@ -4,7 +4,7 @@ subtitle: "Una conversación con Sergio Grez"
 categories: "Entrevista"
 author: Mauricio Encina
 date: 09-11-2023
-image: ../../images/entrevista_01.jpg
+image: ../../images/entrevistas/entrevista_01.jpg
 lang: es
 about: 
   template: marquee

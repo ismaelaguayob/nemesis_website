@@ -5,7 +5,7 @@ description: "Reflexiones respecto a las contradicciones del futuro"
 categories: "Comentarios bibliográficos"
 author: Oscar de la Jara
 date: 08-22-2023
-image: ../../images/com_bib_08.jpeg
+image: ../../images/comentarios/com_bib_08.jpeg
 lang: es
 about: 
   template: marquee

@@ -8,7 +8,7 @@ author:
     orcid: 0009-0002-4056-8242
     email: ismael.aguayo@ug.uchile.cl
 date: 12-16-2025
-image: ../../images/column_15.png
+image: ../../images/columnas/column_15.png
 lang: es
 about: 
   template: marquee
@@ -18,7 +18,7 @@ Un clivaje se define como la distinción que ordena las preferencias políticas 
 
 No obstante, en los últimos años se ha postulado que tal clivaje histórico perdió relevancia, dando paso a una nueva distinción que determinará las preferencias políticas en nuestro país. Recientemente y en especial luego de la arrasadora victoria de Kast este domingo (con 58,16% de votación y mayoría en todas las regiones), diferentes analistas políticos (Ej: [Altman, 2025](https://www.latercera.com/politica/noticia/david-altman-cientista-politico-el-clivaje-estallido-y-rechazo-explica-mejor-el-mapa-politico-de-hoy-que-el-si-y-el-no/); [Belolio, 2025](https://www.ex-ante.cl/1988-versus-2022-por-cristobal-bellolio/); [Joignant, 2025](https://elpais.com/chile/2025-12-01/chile-el-nacimiento-de-un-nuevo-clivaje.html); [Ortuzar, 2025](https://www.instagram.com/reel/DSNMoLjEzA3/)), medios tradicionales (Ej: [Blanco - Emol, 2025](https://www.emol.com/noticias/Nacional/2025/12/14/1185824/elecciones-presidenciales-kast-jara.html)) y vocerías de partidos (Ej: [Rincón, 2025](https://www.emol.com/noticias/Nacional/2025/12/14/1185846/chile-vamos-kast-presidente-electo.html#:~:text=timonel%20de%20Dem%C3%B3cratas%2C-,Ximena%20Rinc%C3%B3n,-%2C%20sostuvo%20que)) han postulado que el nuevo clivaje se define por el antagonismo ocasionado por el plebiscito constitucional de 2022, donde con una votación similar a la que observamos el domingo (61,89% de rechazo), la población decidió no continuar con el proyecto de transformación estructural. Los dos polos opuestos serían la "refundación" del sistema neoliberal y la "recuperación del orden institucional", viendo el segundo grandes ventajas evidenciadas en las últimas elecciones. Sostengo que estos análisis pecan de apresurados; un clivaje no se define por una moda electoral, sino por una ruptura estructural de larga duración. El amplio triunfo de Kast y la derrota reciente del proyecto de la izquierda se puede deber a muchas otras razones, y creo que la distinción en torno al Apruebo y el Rechazo no captura todas las características y desafíos que plantea la política nacional contemporánea.
 
-<img src="../../images/column_15_img1.jpeg"
+<img src="../../images/columnas/column_15_img1.jpeg"
      alt="imagen"
      style="float: right; width: 400px; margin: 0 0 12px 20px;" />
 

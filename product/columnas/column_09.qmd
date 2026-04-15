@@ -3,7 +3,7 @@ title: "Del campo social al campo social transnacional"
 categories: "Columnas de opinión"
 author: Carlos Gabriel Chávez Reyes, Thelma Sarai Jeronimo Santana
 date: 05-21-2025
-image: ../../images/columna_09.png
+image: ../../images/columnas/columna_09.png
 lang: es
 about: 
   template: marquee

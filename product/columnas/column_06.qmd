@@ -3,7 +3,7 @@ title: "Prima Solar y el futuro cada vez más aterrador"
 categories: "Columnas de opinión"
 author: Javiera Ruiz
 date: 11-23-2024
-image: ../../images/column_06.jpg
+image: ../../images/columnas/column_06.jpg
 lang: es
 about: 
   template: marquee

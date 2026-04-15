@@ -12,7 +12,7 @@ listing:
   page-size: 10
   image-align: left
   image-height: 15.0rem
-  image-placeholder: ../../images/comentarios_dalle.png
+  image-placeholder: ../../images/comentarios/comentarios_dalle.png
 page-layout: full
 ---
 

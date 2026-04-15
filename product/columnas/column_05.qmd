@@ -3,7 +3,7 @@ title: "Lo amplio del frente amplio: unas consideraciones acerca de su falta de 
 categories: "Columnas de opinión"
 author: Iker Brauchi
 date: 11-21-2024
-image: ../../images/column_05.jpg
+image: ../../images/columnas/column_05.jpg
 lang: es
 about: 
   template: marquee
