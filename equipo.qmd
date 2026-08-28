@@ -105,12 +105,11 @@ Licenciada en sociología UChile. Interesada en la sociología ambiental, sociol
 ::: {.team-grid}
 
 ::: {.team-member}
-![](images/miembros/javi.jpg)
+![](images/miembros/camila.jpeg)
 
-<div class="member-name">Javiera Ruiz Alvarado</div>
+<div class="member-name">Camila Alarcón</div>
 <div class="member-bio">
-**Coordinadora de Extensión y Comunicaciones.**
-Estudiante de quinto año de sociología UChile y miembro del Equipo Directivo del Núcleo Teoría Social Hoy. Sus intereses abarcan el Feminismo Postestructuralista, la Sociología Latinoamericana y la Filosofía del Afecto.
+Estudiante de sociología UChile con formación previa en geografía. Sus áreas de interés abarcan la sociología territorial, los estudios urbanos y la gestión del riesgo socioambiental.
 </div>
 :::
 

@@ -78,7 +78,7 @@
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/equipo.html</loc>
-    <lastmod>2026-04-15T23:51:49.431Z</lastmod>
+    <lastmod>2026-08-28T20:55:07.995Z</lastmod>
   </url>
   <url>
     <loc>https://revistanemesis.netlify.app/convocatoria.html</loc>
@@ -125,6 +125,10 @@
     <lastmod>2026-04-15T23:45:52.030Z</lastmod>
   </url>
   <url>
+    <loc>https://revistanemesis.netlify.app/product/columnas/column_17.html</loc>
+    <lastmod>2026-04-15T23:53:14.496Z</lastmod>
+  </url>
+  <url>
     <loc>https://revistanemesis.netlify.app/product/comentarios/com_bib_01.html</loc>
     <lastmod>2026-04-15T23:41:08.480Z</lastmod>
   </url>
@@ -155,9 +159,5 @@
   <url>
     <loc>https://revistanemesis.netlify.app/product/entrevistas/entrevista_02.html</loc>
     <lastmod>2026-04-15T23:42:35.648Z</lastmod>
-  </url>
-  <url>
-    <loc>https://revistanemesis.netlify.app/product/columnas/column_17.html</loc>
-    <lastmod>2026-04-15T23:53:14.496Z</lastmod>
   </url>
 </urlset>
