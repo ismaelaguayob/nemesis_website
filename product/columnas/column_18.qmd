@@ -1,0 +1,49 @@
+---
+title: "Un revolucionario y un enemigo que no ha cesado de vencer"
+categories: "Columnas de opinión"
+author: 
+  - name: Paolo Cuervo Zambrano
+    affiliation: Universidad de Chile
+date: 10-06-26
+image: ../../images/columnas/column_18.jpeg
+lang: es
+about:
+  template: marquee
+---
+::: {.cita-derecha}
+
+*“¿Acaso no nos roza, a nosotros también, una ráfaga del aire que envolvía a los de antes? ¿Acaso en las voces a las que prestamos oído no resuena el eco de otras voces que dejaron de sonar?... Si es así, un secreto compromiso de encuentro está entonces vigente entre las generaciones del pasado y la nuestra”.
+
+Walter Benjamin, *Tesis sobre la historia y otros fragmentos*
+
+:::
+
+Hace ya más de medio siglo de la caída en combate de Miguel Enríquez en la calle Santa Fe, resistiendo directamente contra las fuerzas opresoras de la dictadura, sus ideales cobran una vigencia tan preponderante como descarnada. Hablar sobre Miguel no es simplemente un ejercicio de memoria que nos evoca nostalgia o un sentimiento de melancolía; hoy en día es un acto de rememoración y de lucha que nos exige mirar de frente a la barbarie para conquistar una justicia que nos ha sido tan esquiva.
+
+La decisión de Miguel Enríquez de no huir, de resistir en la clandestinidad a la dictadura y de enfrentar de frente a los militares que lo rodeaban en su casa: su propia vida puesta para resguardar a su compañera de lucha Carmen Castillo, misma que se encontraba embarazada, constituye el manifiesto más claro a la hora de vislumbrar el habitar político del revolucionario.  No se trató de un acto aislado de valentía; se trató de plasmar la ética de un proyecto colectivo al que entregó la totalidad de su vida.
+
+Es ahora, cuando ya transcurrieron 52 años, que la historia de los vencedores intenta convertirlo en una pieza de atracción casi turística, en una compleja anécdota que incomoda y tensiona, que es mejor enterrar en el pasado. Impera, entonces, situarse en el tiempo presente, observar el relámpago nos devela que la barbarie sigue presente. Walter Benjamin (2008) advertía: “No hay documento de cultura que no sea a la vez un documento de barbarie” (p. 42\) por lo que pasar a contrapelo la historia se vuelve fundamental para que arranquemos su memoria de las manos de los vencedores y ese compromiso entre generaciones, entre la lucha de Miguel y el ahora, se plasme en el panorama concreto y exija esa justicia que, como se marcaba anteriormente, nos es tan esquiva.
+
+En voz de su padre, Edgardo Enríquez Fröden, quien en su discurso en la inauguración del Hospital Clínico de La Habana –que lleva el nombre de Miguel Enríquez– recordaba algo que su hijo solía marcar: “Un día, no se cuando, voy a caer. Mis huesos quedarán por ahí, tal vez, blanqueándose al sol. Mi temor es no haber alcanzado a hacer cuanto he planeado”.
+
+En sus palabras se esconde su verdadero temor: no era la muerte en sí misma, sino dejar un mandato histórico inconcluso. Es la misma promesa incumplida que nos señala Benjamin; es la exigencia del pasado sobre el presente reclamando que la lucha no quede en el olvido, que no sea neutralizada por el relato hegemónico. Ahí están los miedos de Miguel Enríquez, en que las banderas de la lucha de los vencidos sean sometidas y borradas por los vencedores. 
+
+Son los grandes capitales y las clases dominantes los que, con su violencia, no solo arrebatan vidas, sino que intentan con ferocidad arrebatar el contenido revolucionario intrínseco, en este caso el de Miguel Enríquez. Benjamin, con real crudeza, explicitaba en su Tesis VI: “tampoco los muertos estarán a salvo del enemigo si éste vence. Y este enemigo no ha cesado de vencer” (p. 40). 
+
+Pero, pese a los esfuerzos de los vencedores por presentar la caída en combate de Miguel como un hecho clausurado, la rememoración se convierte en una vanguardia de resistencia. No nos llenamos con el vacío de la linealidad en la historia de los vencedores, sino que, como mencionaba el filósofo alemán ahora en su Tesis XII: “Pues ambos se nutren de la imagen de los antepasados esclavizados y no del ideal de los descendientes liberados” (p. 49). Esa rememoración es el acto de encender una chispa de esperanza en el pasado.
+
+**La vigencia en la memoria colectiva**:
+
+Las esperanzas de una nueva sociedad, los anhelos de todos los caídos y su lucha, la lucha de Miguel, no quedó detenida aquel 5 de octubre de 1974, sino que resuena más fuerte que nunca porque las injusticias y sus demandas aún están latentes. 
+
+Quienes ejecutaron su asesinato pretendían someter la resistencia chilena, pretendían llevarse consigo a un líder, pretendían acabar un proyecto revolucionario, pero se equivocaron, pretendieron pasar por encima de una lucha colectiva. Tal 	como le expresó Edgardo Enríquez a Raquel Espinosa: “Quienes le dispararon sabían que aunque desfiguraran su hermoso rostro y destruyeran su cerebro privilegiado no lograrían jamás borrar la imagen de él que se ha formado el pueblo, ni sepultar sus generosos y sabios pensamientos inspirados por sus elevados y dignificadores ideales” (p. 10). Todo lo mencionado reside en la colectividad, la que se niega a someterse al mayor de los temores: el olvido. El legado de Miguel Enríquez se mantiene vivo a pesar de su muerte y es de todos los insurgentes porque responde precisamente a la urgencia incesante del pasado. 
+ 
+**Referencias**
+
+::: {.referencias}
+
+Benjamin, W. (2008). Tesis sobre la historia y otros fragmentos. Editorial ltaca
+
+Enríquez, M. (2014). Miguel Enríquez: Textos fundamentales. Ediciones Espartaco 
+
+:::
