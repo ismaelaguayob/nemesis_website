@@ -19,6 +19,8 @@
   {
     "listing": "/product/columnas.html",
     "items": [
+      "/product/columnas/column_19.html",
+      "/product/columnas/column_18.html",
       "/product/columnas/column_17.html",
       "/product/columnas/column_16.html",
       "/product/columnas/column_15.html",
@@ -41,6 +43,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/product/columnas/column_19.html",
+      "/product/eventos/seminario_xxi.html",
+      "/product/columnas/column_18.html",
       "/product/columnas/column_17.html",
       "/product/columnas/column_16.html",
       "/product/entrevistas/entrevista_02.html",

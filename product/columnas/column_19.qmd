@@ -1,0 +1,40 @@
+---
+title: "De la Economía política y otros demonios: El verdadero mal de la familia monogámica"
+categories: "Columnas de opinión"
+author: 
+  - name: Jennifer Paola Faúndez
+    affiliation: Universidad de Chile
+date: 11-23-26
+image: ../../images/columnas/column_19.jpeg
+lang: es
+about:
+  template: marquee
+---
+
+A lo largo del tiempo, se nos ha hecho creer que el capitalismo ha sido la causa de todo comportamiento individualista y anticomunitario; sin embargo, ¿qué pruebas tenemos de aquello? Sin negar las implicancias materiales de existencia que ordena el capitalismo en la sociedad, ¿es cierto pensar que este fenómeno contemporáneo corresponde al verdadero razonamiento detrás de todo mal?
+
+Se debe tener en cuenta que todo cambio social lleva consigo sus propias perspectivas en relación a orientaciones de valor así como del ordenamiento e implicancias en ello. Una primera pista relevante es que las orientaciones de valor cambian en relación al momento histórico pero también pueden coexistir distintos sistemas de valores en un mismo periodo. Esta aseveración revela un componente evolucionista y multicausal de las orientaciones de valor que ya a primera vista permite trazar un punto de vista relevante para considerar cómo se van configurando las relaciones sociales a lo largo del tiempo.
+
+El estudio de Engels de las formas de organización familiar y las normas morales le llevó a creer que éstas no son eternas ni naturales, sino que evolucionan en paralelo al desarrollo de las fuerzas productivas y la acumulación de la riqueza. En su libro *El origen de la Familia, la Propiedad Privada y el Estado* (1884/2006) aborda cómo la evolución de la institución familiar se caracteriza por una reducción constante del círculo conyugal, el cual abarcaba originalmente a toda la tribu. El filósofo describe este tránsito a través de cinco etapas sucesivas en donde se destaca cómo el paso a la familia patriarcal marcaba el inicio a una monogamia que no tenía como fin la exclusividad de los vínculos maritales sino el patrimonio y el conjunto de esclavos (*famulus*) propiedad de un señor. En este sentido, la propiedad privada hereditaria es la que compone la base económica de la familia patriarcal burguesa y es la razón por la que Engels afirma que la primera opresión de clase coincide con la opresión del sexo femenino por el masculino dentro de la monogamia.
+
+Un segundo componente importante es que las condiciones materiales de existencia son las que guían todo cambio social de donde es posible afirmar su raíz en el cambio de la economía doméstica hacia la economía política. No son las ideas las que determinan el orden social sino las condiciones materiales de existencia las que condicionan las orientaciones de valor. Polanyi (2003) permite identificar que la economía no necesita necesariamente un mercado y que esta concepción donde ambos elementos se unen es de carácter más moderno con el capitalismo. A partir de esto, se observa que las transformaciones culturales mutan con el paso de la economía doméstica a la economía política lo que derriba la concepción que afirma que es únicamente la división del trabajo lo cual lleva a orientaciones de comportamiento individualistas y anticomunitarias.
+
+El propósito de la economía no siempre fue el intercambio comercial sino atender a las necesidades de supervivencia y mantenimiento de la tribu. A esto es a lo que apuntaba la economía doméstica y de donde se desprende el origen de la economía, la cual representa la producción organizada dentro del hogar para satisfacer directamente las necesidades humanas de autoconsumo. Tanto para Baño (2022) como para Mirón Pérez (2004), hablar de economía doméstica es una redundancia en tanto el origen etimológico de la palabra economía –derivada del griego *oikonomia*– permite establecer que su primera noción era el de la administración familiar, donde *oikos* se concibe como casa u hogar y *nomos* corresponde a las reglas o normas. 
+
+En la medida en que las comunidades se transforman en sociedades y posteriormente en ciudades, va aumentando el intercambio –en este sentido, las orientaciones individualistas son documentadas desde la Grecia antigua donde los principios de igualdad eran casi inexistentes–, lo cual conlleva el primer cambio en las orientaciones económicas donde la producción deja de reducirse a la supervivencia del individuo y pasa a la mercantilización y ganancia; en segundo lugar, tras el medioevo se produce una mercantilización de las formas de trabajo y es solo a partir de este momento en que se puede considerar el punto de partida de un capitalismo propiamente dicho. Estos cambios –entre muchos otros–, permiten entender cómo se da el paso hacia la economía política, donde se trasciende del ámbito del hogar hacia un espacio mayor, que es el de una sociedad definida, políticamente organizada. Tal como se ha anticipado, esta implica la producción orientada al mercado, la compra de bienes en lugar de su fabricación casera, y la venta de la fuerza de trabajo a cambio de un salario. 
+
+Teniendo lo anterior en cuenta, es posible establecer que, si bien, las transformaciones económicas han influido en los comportamientos sociales, los cambios en las orientaciones de valor hacia posturas individualistas y anticomunitarias responde más bien a la pérdida de relevancia de la estructura familiar como unidad de producción económica y el paso de la familia extensa a la familia nuclear. Este cambio material es descrito por Rodrigo Baño en *La era de la farsa* (2022), donde afirma que el correlato de este cambio material se traduce en el auge del supraindividualismo moderno, caracterizado por la priorización absoluta del individuo por sobre los compromisos colectivos y colectividades tradicionales, encontrando su raíz directa en la disolución de las funciones del hogar doméstico.
+
+**Referencias**
+
+::: {.referencias}
+
+Baño, R. (2022). *La Era de la farsa. A precio de mercado*. Editorial Catalonia. 
+
+Engels, F. (2006). *El origen de la Familia, la Propiedad Privada y el Estado*. Fundación Federico Engels.  Obra original publicada en 1884\.
+
+Mirón Pérez, M. D. (2004). Oikos y oikonomia: El análisis de las unidades domésticas de producción y reproducción en el estudio de la Economía antigua. *Gerión. Revista de Historia Antigua, 22*(1), 61-79.
+
+Polanyi, K. (2003). *La gran transformación: Los orígenes políticos y económicos de nuestro tiempo*. Fondo de Cultura Económica de México.
+
+:::
